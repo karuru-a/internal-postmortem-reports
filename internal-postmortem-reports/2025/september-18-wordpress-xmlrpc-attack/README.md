@@ -4,7 +4,7 @@
 **Server:** Google Cloud VM (pawait-website)  
 **Domain:** pawait.africa  
 **Severity:** High (186% CPU utilization)  
-**Duration:** ~30 minutes  
+**Duration:** ~7 hours  
 
 ## Executive Summary
 
