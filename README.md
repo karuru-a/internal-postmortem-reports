@@ -36,13 +36,17 @@ Create a postmortem for:
 ## Example Structure
 
 ```
-2025/
-└── september-18-wordpress-xmlrpc-attack/
-    ├── postmortem.md
-    └── images/
-        ├── cpu-spike-graph.png
-        ├── error-logs.png
-        └── monitoring-alerts.png
+|-- README.md
+|-- internal-postmortem-reports
+|   `-- 2025
+|       |-- README.md
+|       `-- september-18-wordpress-xmlrpc-attack
+|           |-- README.md
+|           `-- images
+|               |-- high-cpu-utilization.png
+|               |-- memory-utilization.png
+|               `-- xmlrpc-blocked.png
+`-- template.md
 ```
 
 ## Best Practices
