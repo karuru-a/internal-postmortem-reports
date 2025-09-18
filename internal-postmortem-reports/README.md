@@ -6,7 +6,7 @@ This directory contains all postmortem reports for incidents that occurred in 20
 
 | Date | Incident | Severity | Duration | Status |
 |------|----------|----------|----------|---------|
-| Sep 18 | [WordPress XML-RPC Attack](september-18-wordpress-xmlrpc-attack/) | High | ~30 minutes | Resolved |
+| Sep 18 | [WordPress XML-RPC Attack](september-18-wordpress-xmlrpc-attack/) | High | ~7 hours | Resolved |
 
 ## Statistics
 
